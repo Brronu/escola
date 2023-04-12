@@ -1,3 +1,5 @@
 Cursos Logistica;
 Cursos de programação;
-Curso de Desenvolvimento de Software.
+Curso de Desenvolvimento de Software;
+Curso de Eletrônica;
+Curso de Iot.
